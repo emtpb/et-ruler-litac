@@ -1,2 +1,3 @@
-# et-ruler-ledcoder
+# et-ruler-LitAC
+Light to Audio Converter
 
