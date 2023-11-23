@@ -11,7 +11,8 @@
 |Widerstand 1M Ohm|[Reichelt](https://www.reichelt.de/widerstand-metallschicht-1-0-mohm-0207-0-6-w-1--metall-1-00m-p11404.html?&trstct=pol_1&nbc=1)|[Reichelt](https://www.reichelt.de/smd-widerstand-0805-1-0-mohm-125-mw-1--smd-0805-1-00m-p32922.html?&trstct=pol_3&nbc=1)||1|
 |Kondensator 1uF|[Reichelt](https://www.reichelt.de/vielschicht-keramikkondensator-1-0-20--z5u-5-1-0--p22985.html?&trstct=pol_0&nbc=1)|[Reichelt](https://www.reichelt.de/vielschicht-kerko-1-0-f-16v-85-c-kem-y5v0805-1-0u-p207083.html?&trstct=pol_1&nbc=1)||1|
 |Kondensator 100pF|[Reichelt](https://www.reichelt.de/vielschicht-kerko-100-pf-50-100-v-npo-5-rm-2-5-npo-2-5-100p-p13495.html?&trstct=pos_1&nbc=1)|[Reichelt](https://www.reichelt.de/smd-vielschicht-0805-100-pf-cog-5-50v-npo-g0805-100p-p13512.html?&trstct=pol_1&nbc=1)||1|
-|Potentiometer|[Reichelt](https://www.reichelt.de/einstellpotentiometer-liegend-5-0-kohm-14-mm-acp-14-l-5k-p110274.html?&trstct=vrt_pdn&nbc=1)|||1|
+|Potentiometer|[Reichelt](https://www.reichelt.de/einstellpotentiometer-liegend-5-0-kohm-15-mm-pt-15-l-5-0k-p14957.html?&trstct=pol_1&nbc=1)|||1|
+|Steckachse|[Reichelt](https://www.reichelt.de/steckachse-fuer-trimmer-pt-15-schwarz-pih-5272-black-p239880.html?&trstct=pol_5&nbc=1)|||1|
 |Klinkenbuchse|[Reichelt](https://www.reichelt.de/klinkeneinbaubuchse-3-5-mm-stereo-ebs-35-p7301.html?&trstct=pos_0&nbc=1)|||optional|
 |Buchsenleiste 1x2||||optional|
 |Schalter DPDT|[Reichelt](https://www.reichelt.de/schiebeschalter-gerade-rm2-54-2x-ein-ein-ss-25146-nh-p105711.html?&trstct=pol_9&nbc=1)|[Mouser](https://www.mouser.de/ProductDetail/CK/JS202011SCQN?qs=LgMIjt8LuD95JYWxZ7NvZA%3D%3D)||1|
