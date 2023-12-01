@@ -7528,7 +7528,7 @@
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp d3102fa4-6079-42c5-a8bb-8b07654be71e))
   (gr_line (start 50.532 89.278) (end 213.532 89.278)
     (stroke (width 0.1) (type solid)) (layer "Edge.Cuts") (tstamp f87bca1c-b1d0-46ca-8c19-4f13b93cf90b))
-  (gr_text "1.0" (at 210.4 88.4) (layer "F.Cu" knockout) (tstamp 00b911d0-73ca-4aeb-8d2d-345852be4537)
+  (gr_text "1.1" (at 210.4 88.4) (layer "F.Cu" knockout) (tstamp 00b911d0-73ca-4aeb-8d2d-345852be4537)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
   (gr_text "Institut für Elektrotechnik und Informationstechnik\nei.uni-paderborn.de" (at 195.4 70.8) (layer "B.SilkS") (tstamp 9ce05585-9796-414d-8783-6885d245d4dd)
