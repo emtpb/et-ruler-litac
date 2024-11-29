@@ -8,6 +8,8 @@ You can connect two "LitAC" to have them powered from the same battery, so you o
 
 ![LitAC](et-ruler-LitAC.png)
 
+An interactive html bom file with pcb layout and material placement can be found [here](bom/ibom.html).
+
 # Schematic
 
 ![LitAC](et-ruler-LitAC-schematic.png)
