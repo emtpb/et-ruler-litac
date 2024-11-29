@@ -4132,7 +4132,7 @@
 	)
 	(text "Power"
 		(exclude_from_sim no)
-		(at 20.32 22.86 0)
+		(at 19.05 22.098 0)
 		(effects
 			(font
 				(size 2 2)
@@ -4141,9 +4141,9 @@
 		)
 		(uuid "63a54d48-292d-4d02-b017-6f9719bf9ef3")
 	)
-	(text "Pmod connectors"
+	(text "Connectors"
 		(exclude_from_sim no)
-		(at 154.94 22.86 0)
+		(at 155.702 21.59 0)
 		(effects
 			(font
 				(size 2 2)
@@ -4154,7 +4154,7 @@
 	)
 	(text "Output"
 		(exclude_from_sim no)
-		(at 239.268 22.606 0)
+		(at 239.268 22.098 0)
 		(effects
 			(font
 				(size 2 2)
@@ -4176,7 +4176,7 @@
 	)
 	(text "Scales, symbols, mounting holes"
 		(exclude_from_sim no)
-		(at 99.06 22.86 0)
+		(at 97.028 21.59 0)
 		(effects
 			(font
 				(size 2 2)
