@@ -13,3 +13,6 @@ An interactive html bom file with pcb layout and material placement can be found
 # Schematic
 
 ![LitAC](et-ruler-LitAC-schematic.png)
+
+# Interactive BOM
+An interactive html BOM page with pcb layout and material placement can be found [here](https://emtpb.github.io/et-ruler-litac/bom/ibom.html).
